@@ -1,6 +1,5 @@
 package com.chenlb.mmseg4j.analysis;
 
-import java.io.Reader;
 import java.util.List;
 
 import org.apache.lucene.analysis.Tokenizer;
