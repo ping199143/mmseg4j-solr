@@ -1,7 +1,6 @@
 package com.chenlb.mmseg4j.analysis;
 
 import java.io.File;
-import java.io.Reader;
 
 import org.apache.lucene.analysis.Analyzer;
 
